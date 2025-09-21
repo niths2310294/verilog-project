@@ -1,0 +1,33 @@
+# Simulation output
+*.vcd
+*.fst
+*.lxt*
+*.vpd
+*.ghw
+*.wlf
+
+# Synthesis tool output
+*.edf
+*.ngc
+*.ncd
+*.bit
+*.bin
+*.svf
+*.jou
+*.log
+*.str
+
+# Tool-generated folders
+/work/
+/simulation/
+/sim/
+/build/
+/temp/
+/tmp/
+/db/
+/incremental_db/
+/output_files/
+
+# OS files
+.DS_Store
+Thumbs.db
